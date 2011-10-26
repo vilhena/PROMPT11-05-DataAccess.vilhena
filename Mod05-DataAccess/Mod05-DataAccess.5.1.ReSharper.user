@@ -1,0 +1,74 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="blogMapper" priority="1" />
+      <Item value="new" priority="8" />
+      <Item value="BlogMapper" priority="0" />
+      <Item value="connection" priority="0" />
+      <Item value="ctor" priority="0" />
+      <Item value="base" priority="0" />
+      <Item value="using" priority="1" />
+      <Item value="SqlConnection`0" priority="1" />
+      <Item value="SqlConnection" priority="0" />
+      <Item value="var" priority="4" />
+      <Item value="SqlTransaction`0" priority="0" />
+      <Item value="conn" priority="1" />
+      <Item value="store" priority="2" />
+      <Item value="MetaDataStore" priority="0" />
+      <Item value="IEntityMapper" priority="0" />
+      <Item value="IdentityMap`0" priority="0" />
+      <Item value="tran" priority="1" />
+      <Item value="map" priority="1" />
+      <Item value="EntityHydrater`0" priority="0" />
+      <Item value="hydrater" priority="0" />
+      <Item value="Blog" priority="0" />
+      <Item value="newBlog" priority="2" />
+      <Item value="Description" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="Owner" priority="0" />
+      <Item value="User" priority="0" />
+      <Item value="OwnerId" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlConnection">
+      <Item value="BeginTransaction`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Mod5_DomainModel.DomainModelMappers.BlogMapper">
+      <Item value="Insert`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlTransaction">
+      <Item value="Commit`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F905FE78-CF12-4733-AF0D-3038E1CF4D2D/d:DomainModelMappers/f:BlogMapper.cs" caret="241" fromTop="9" />
+      <File id="F905FE78-CF12-4733-AF0D-3038E1CF4D2D/f:User.cs" caret="149" fromTop="7" />
+      <File id="42064BF1-5744-486F-AC77-E6440BF95BDB/f:Program.cs" caret="1166" fromTop="14" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F905FE78-CF12-4733-AF0D-3038E1CF4D2D/d:DomainModelMappers/f:BlogMapper.cs" caret="0" fromTop="0" />
+      <File id="42064BF1-5744-486F-AC77-E6440BF95BDB/f:Program.cs" caret="1274" fromTop="19" />
+      <File id="42064BF1-5744-486F-AC77-E6440BF95BDB/f:Program.cs" caret="517" fromTop="11" />
+      <File id="F905FE78-CF12-4733-AF0D-3038E1CF4D2D/d:DomainModelMappers/f:BlogMapper.cs" caret="241" fromTop="9" />
+      <File id="42064BF1-5744-486F-AC77-E6440BF95BDB/f:Program.cs" caret="1255" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

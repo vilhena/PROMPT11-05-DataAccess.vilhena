@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="F905FE78-CF12-4733-AF0D-3038E1CF4D2D" ModuleId="Mod5-DomainModel" />
+  <Module PersistentId="2B043C9F-12B7-4BA5-9BFF-28FA8EB034C5" ModuleId="Mod05-ChelasDAL" />
+  <Module PersistentId="42064BF1-5744-486F-AC77-E6440BF95BDB" ModuleId="Mod05-ChelasDALConsole" />
+</Modules>

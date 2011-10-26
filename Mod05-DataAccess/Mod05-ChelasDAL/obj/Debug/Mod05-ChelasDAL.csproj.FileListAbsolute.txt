@@ -1,0 +1,5 @@
+C:\Users\gnvilhena\PROMPT\uc02\repos\PROMPT11-05-DataAccess.vilhena\Mod05-DataAccess\Mod05-ChelasDAL\bin\Debug\Mod05-ChelasDAL.dll
+C:\Users\gnvilhena\PROMPT\uc02\repos\PROMPT11-05-DataAccess.vilhena\Mod05-DataAccess\Mod05-ChelasDAL\bin\Debug\Mod05-ChelasDAL.pdb
+C:\Users\gnvilhena\PROMPT\uc02\repos\PROMPT11-05-DataAccess.vilhena\Mod05-DataAccess\Mod05-ChelasDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gnvilhena\PROMPT\uc02\repos\PROMPT11-05-DataAccess.vilhena\Mod05-DataAccess\Mod05-ChelasDAL\obj\Debug\Mod05-ChelasDAL.dll
+C:\Users\gnvilhena\PROMPT\uc02\repos\PROMPT11-05-DataAccess.vilhena\Mod05-DataAccess\Mod05-ChelasDAL\obj\Debug\Mod05-ChelasDAL.pdb
